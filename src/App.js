@@ -4,7 +4,8 @@ import Shop from './components/Shop/Shop';
 import {Routes,Route} from 'react-router-dom';
 import Orders from './components/Orders/Orders';
 import Inventory from './Inventory/Inventory';
-import About from './About/About';
+import About from './components/About/About';
+
 
 function App() {
   return (
