@@ -3,7 +3,7 @@ import Header from './components/Header/Header';
 import Shop from './components/Shop/Shop';
 import {Routes,Route} from 'react-router-dom';
 import Orders from './components/Orders/Orders';
-import Inventory from './Inventory/Inventory';
+import Inventory from './components/Inventory/Inventory';
 import About from './components/About/About';
 
 
